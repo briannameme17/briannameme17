@@ -3,7 +3,7 @@
 I’m passionate about cybersecurity with a focus on compliance, data protection, and governance. Through hands-on projects in vulnerability management and security assessments, I explore how security controls, risk, and technical findings translate into stronger, well-governed security operations. Feel free to explore my work.
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/briannameme17/Agent-Based-Monitoring-Windows/tree/main))**
 
@@ -11,7 +11,7 @@ I’m passionate about cybersecurity with a focus on compliance, data protection
 
 <hr/>
 
-## 🤳 Connect With Me
+## Connect With Me
 
 [<img align="left" alt="briannameme| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
