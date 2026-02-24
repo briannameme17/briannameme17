@@ -3,7 +3,7 @@
 I’m passionate about cybersecurity with a focus on compliance, data protection, and governance. Through hands-on projects in vulnerability management and security assessments, I explore how security controls, risk, and technical findings translate into stronger, well-governed security operations. Feel free to explore my work.
 
 
-## Vulnerability Management Projects
+## Vulnerability Management
 
 - **[Agent Based Monitoring: Windows](https://github.com/briannameme17/Agent-Based-Monitoring-Windows)**
 - **[DISA STIG Windows 11 – Advanced Network Compliance Scan](https://github.com/briannameme17/DISA-STIG-Windows-11-Advanced-Network-Scan)**
