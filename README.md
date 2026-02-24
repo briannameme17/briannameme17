@@ -12,7 +12,7 @@ I’m passionate about cybersecurity with a focus on compliance, data protection
 - **[osTicket System: Windows 11](https://github.com/briannameme17/osTicket-System-Installation)**
 
 ## Business Operations 
-- **[Coffee Bean Sales Performance Dashboard](
+- **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
 <hr/>
 
 ## Connect With Me
