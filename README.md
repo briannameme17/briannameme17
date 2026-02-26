@@ -8,14 +8,15 @@ I’m passionate about cybersecurity with a focus on compliance, data protection
 - **[Agent Based Monitoring: Windows](https://github.com/briannameme17/Agent-Based-Monitoring-Windows)**
 - **[DISA STIG Windows 11 – Advanced Network Compliance Scan](https://github.com/briannameme17/DISA-STIG-Windows-11-Advanced-Network-Scan)**
 
+## IT Compliance Documents
+- **[Information Security User Compliance Policy](https://github.com/briannameme17/Information-Security-User-Compliance-Policy)**
+  
 ## osTicket 
 - **[osTicket System: Windows 11](https://github.com/briannameme17/osTicket-System-Installation)**
 
 ## Business Operations 
 - **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
 
-## IT Compliance Documents
-- ** [Information Security User Compliance Policy](https://github.com/briannameme17/Information-Security-User-Compliance-Policy)**
 <hr/>
 
 ## Connect With Me
