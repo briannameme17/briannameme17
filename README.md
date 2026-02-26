@@ -13,6 +13,9 @@ I’m passionate about cybersecurity with a focus on compliance, data protection
 
 ## Business Operations 
 - **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
+
+## IT Compliance Documents
+- ** [Information Security User Compliance Policy](https://github.com/briannameme17/Information-Security-User-Compliance-Policy)**
 <hr/>
 
 ## Connect With Me
