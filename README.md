@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/briannameme/">Brianna Meme</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/briannameme/">Brianna Meme</a>'s IT and Cybersecurity Project Portfolio 
 
 I’m passionate about cybersecurity with a focus on compliance, data protection, and governance. Through hands-on projects in vulnerability management and security assessments, I explore how security controls, risk, and technical findings translate into stronger, well-governed security operations. Feel free to explore my work.
 
