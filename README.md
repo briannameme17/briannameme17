@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/briannameme/">Brianna Meme</a>'s IT and Cybersecurity Project Portfolio 
 
-I’m passionate about cybersecurity with a focus on compliance, data protection, and governance. Through hands-on projects in vulnerability management and security assessments, I explore how security controls, risk, and technical findings translate into stronger, well-governed security operations. Feel free to explore my work.
+I’m an IT and business operations professional focused on IT compliance, security analysis, and data driven system improvements. Through hands on projects in vulnerability management, access control reviews, and security policy development, I examine how technical controls and risk assessments translate into stronger governance, operational efficiency, and well managed IT environments.
 
 
 ## Vulnerability Management
