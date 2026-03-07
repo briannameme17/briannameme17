@@ -11,7 +11,7 @@ I’m an IT and business operations professional focused on IT compliance, secur
 ## IT Compliance Documents
 - **[Information Security User Compliance Policy](https://github.com/briannameme17/Information-Security-User-Compliance-Policy)**
   
-## osTicket 
+## osTicket System
 - **[osTicket System: Windows 11](https://github.com/briannameme17/osTicket-System-Installation)**
 
 ## Business Operations 
