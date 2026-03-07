@@ -15,7 +15,9 @@ I’m an IT and business operations professional focused on IT compliance, secur
 - **[osTicket System: Windows 11](https://github.com/briannameme17/osTicket-System-Installation)**
 
 ## Business Operations 
+- **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
 - **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
+  
 
 <hr/>
 
