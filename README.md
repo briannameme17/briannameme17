@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/briannameme/">Brianna Meme</a>'s IT and Cybersecurity Project Portfolio 
 
-I’m an IT and business operations professional focused on IT compliance, security analysis, and data driven system improvements. Through hands on projects in vulnerability management, access control reviews, and security policy development, I examine how technical controls and risk assessments translate into stronger governance, operational efficiency, and well managed IT environments.
-
+This repository contains documentation of my technical and business operations projects, including cloud administration, data analysis, and workflow improvement. These projects demonstrate my hands-on experience using technology to support business operations and decision-making.
 
 ## Vulnerability Management
 
