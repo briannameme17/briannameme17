@@ -2,10 +2,6 @@
 
 This repository contains documentation of my technical and business operations projects, including cloud administration, data analysis, and workflow improvement. These projects demonstrate my hands-on experience using technology to support business operations and decision-making.
 
-## Active Directory
-- ** [Domain Set Up]()
-- **[Deploy Active Directory)()
-- **[Group Policy, Permissions, and Account Management]()
   
 ## Business Operations 
 - **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
