@@ -4,6 +4,7 @@ This repository contains documentation of my technical and business operations p
 ## Active Directory
 - **[AD Infrastructure in Azure](https://github.com/briannameme17/Active-Directory-Set-Up/tree/main)**
 - **[Installing Active Directory](https://github.com/briannameme17/Deploy-Active-Directory/tree/main)**
+- **[Group Policy, Permissions, and Account Management](https://github.com/briannameme17/Group-Policy-Permissions-and-Account-Management)**
   
 ## Business Operations 
 - **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
