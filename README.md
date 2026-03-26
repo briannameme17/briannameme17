@@ -2,20 +2,25 @@
 
 This repository contains documentation of my technical and business operations projects, including cloud administration, data analysis, and workflow improvement. These projects demonstrate my hands-on experience using technology to support business operations and decision-making.
 
-## Vulnerability Management
-
-- **[Agent Based Monitoring: Windows](https://github.com/briannameme17/Agent-Based-Monitoring-Windows)**
-- **[DISA STIG Windows 11 – Advanced Network Compliance Scan](https://github.com/briannameme17/DISA-STIG-Windows-11-Advanced-Network-Scan)**
-
+## Active Directory
+- ** [Domain Set Up]()
+- **[Deploy Active Directory)()
+- **[Group Policy, Permissions, and Account Management]()
+  
+## Business Operations 
+- **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
+- **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
+  
 ## IT Compliance Documents
 - **[Information Security User Compliance Policy](https://github.com/briannameme17/Information-Security-User-Compliance-Policy)**
   
 ## osTicket System
 - **[osTicket System: Windows 11](https://github.com/briannameme17/osTicket-System-Installation)**
 
-## Business Operations 
-- **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
-- **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
+## Vulnerability Management
+
+- **[Agent Based Monitoring: Windows](https://github.com/briannameme17/Agent-Based-Monitoring-Windows)**
+- **[DISA STIG Windows 11 – Advanced Network Compliance Scan](https://github.com/briannameme17/DISA-STIG-Windows-11-Advanced-Network-Scan)**
   
 
 <hr/>
