@@ -3,7 +3,7 @@
 This repository contains documentation of my technical and business operations projects, including cloud administration, data analysis, and workflow improvement. These projects demonstrate my hands-on experience using technology to support business operations and decision-making.
 ## Active Directory
 - **[AD Infrastructure in Azure](https://github.com/briannameme17/Active-Directory-Set-Up/tree/main)**
-  
+- **[Installing Active Directory](https://github.com/briannameme17/Deploy-Active-Directory/tree/main)**
   
 ## Business Operations 
 - **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
