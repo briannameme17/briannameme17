@@ -7,6 +7,7 @@ This repository contains documentation of my technical and business operations p
 - **[Group Policy, Permissions, and Account Management](https://github.com/briannameme17/Group-Policy-Permissions-and-Account-Management)**
   
 ## Business Operations 
+-**[Network Traffic Analysis](https://github.com/briannameme17/Network-Traffic-Analysis/tree/main)**
 - **[Azure Storage Account Setup](https://github.com/briannameme17/Storage-Account-Setup/tree/main)**
 - **[Coffee Bean Sales Performance Dashboard](https://github.com/briannameme17/Coffee-Bean-Sales-Performance-Dashboard)**
   
